@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Profile Landing Page",
+  "description": "A visually stunning personal landing page built with React, Three.js for a dynamic background, and Framer Motion for smooth animations. It features a central profile card with a glassmorphism effect.",
+  "requestFramePermissions": []
+}
